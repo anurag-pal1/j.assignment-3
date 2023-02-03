@@ -1,0 +1,27 @@
+Ans 1: Statically typed:-Programming Languages are referred as "static typed" if the memory of the variable is provided at the time of 
+       compilation.
+       Dynamically typed:-Programming languages are said to be "dynamically typed" if the memory for the Variable is provided at the 
+       time of execution.
+
+Ans 2: Variable:-A variable is the name of memory allocated reserved area. It may be thought of as the name of a memory location in other words.
+
+Ans 3: To assign a value in a variable 
+       Syntax: data_type var_name= value;
+       Example: int a=5;
+
+Ans 4: Primitive Data Types:- Primitive data types specify the size and type of variable values.
+       They are the building blocks of data manipulation and cannot be further divided into simpler data types.
+
+Ans 5: Identifiers:-dentifiers in Java are symbolic names used for identification.
+       They can be a class name, variable name, method name, package name, constant name, and more. 
+
+Ans 6: Operators in Java can be classified into six types:-
+       1. Arithmetic Operator.
+       2. Relational Operator.
+       3. Logical Operator.
+       4. Assignment Operator.
+       5. Unary Operator.
+       6. Bitwise Operator.
+
+Ans 7: Increment Operator:-The increment (++) operator (also known as increment unary operator) in Java is used to increase the value of a variable by 1.
+       Decrement Operator:-Decrement as the name implies is used to reduce the value of a variable by 1. 
